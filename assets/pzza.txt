@@ -1,0 +1,21 @@
+name: philly cheesesteak
+description: The ultimate beef and cheese combo in our crunchy on the outside, soft and chewy on the onside pan pizza.
+price: 459.00
+image: phillcheesesteak.jpg
+
+name: Super supreme
+description: Richly decked with nine delicious toppings - beef, ham, italian, sausage, pepperoni, seasoned pork, bell pepper, mushrooms, onions, and pineapples.
+price: 459.00
+image: supersupreme.jpg
+
+name: Meat Lovers
+description: Enjoy a protein-packed serving of bacon, beef, ham, italian sausage, pepperoni and seasoned pork.
+price: 459.00
+image: meatlovers.jpg
+
+name: Chicken Supreme
+description: Chunks of tender chicken breast with pineapple, bell peppers, onions and mushroom in our signature pizza sauce.
+price: 459.00
+image: chickensupreme.jpg
+
+
