@@ -1,0 +1,6 @@
+{
+  "homepage": "http://martinvias00.github.io/Product_Landing_page",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
